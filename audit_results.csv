@@ -1,0 +1,214 @@
+S.No,Source Name,Verified_RSS,Access_Status,Final_Tier
+1,YourStory,https://www.yourstory.com/feed,ACCESSIBLE,TIER_1_RSS
+2,Inc42,https://inc42.com/feed,ACCESSIBLE,TIER_1_RSS
+3,IndianStartupNews,https://www.indianstartupnews.com/rss,ACCESSIBLE,TIER_1_RSS
+4,Entrackr,https://www.entrackr.com/rss,ACCESSIBLE,TIER_1_RSS
+5,StartupTalky,https://www.startuptalky.com/feed,ACCESSIBLE,TIER_1_RSS
+6,Startup Chronicle,https://www.startupchronicle.in/feed,ACCESSIBLE,TIER_1_RSS
+7,The Entrepreneur Today,,ACCESSIBLE,TIER_2_STATIC
+8,The Entrepreneur India,,ACCESSIBLE,TIER_2_STATIC
+9,Startup Magazine,https://www.startupmagazine.in/feed,ACCESSIBLE,TIER_1_RSS
+10,Startup Times India,https://www.startuptimes.in/feed,ACCESSIBLE,TIER_1_RSS
+11,India News Bulletin,https://www.IndianewsBulletin.in/feed,ACCESSIBLE,TIER_1_RSS
+12,StartupReporter.in,https://www.startupreporter.in/feed,ACCESSIBLE,TIER_1_RSS
+13,Story Network,,ERROR_ConnectionError,TIER_2_STATIC
+14,Startup Updates,https://www.startupupdates.in/feed,ACCESSIBLE,TIER_1_RSS
+15,Startup Newswire,https://www.startupnewswire.in/feed,ACCESSIBLE,TIER_1_RSS
+16,Entrepreneur Tales,,ACCESSIBLE,TIER_2_STATIC
+17,Entrepreneur Live,,ACCESSIBLE,TIER_2_STATIC
+18,Entrepreneur Guild,,ACCESSIBLE,TIER_2_STATIC
+19,Entrepreneur Edge,,ACCESSIBLE,TIER_2_STATIC
+20,Business Saga,https://www.businesssaga.in/feed,ACCESSIBLE,TIER_1_RSS
+21,Business Max,https://www.businessmax.in/feed,ACCESSIBLE,TIER_1_RSS
+22,Republic Business,https://www.republicbusiness.in/feed,ACCESSIBLE,TIER_1_RSS
+23,Business Byte,https://www.businessbyte.in/feed,ACCESSIBLE,TIER_1_RSS
+24,Taalk,,BLOCKED_403,TIER_3_BROWSER
+25,StartupIndia Blog,,ACCESSIBLE,TIER_2_STATIC
+26,Economic Times Startups,,ACCESSIBLE,TIER_2_STATIC
+27,Mint Startup,,ACCESSIBLE,TIER_2_STATIC
+28,Moneycontrol Startups,,ACCESSIBLE,TIER_2_STATIC
+29,Business Standard,,ACCESSIBLE,TIER_2_STATIC
+30,Business Today,https://www.businesstoday.in/feed,ACCESSIBLE,TIER_1_RSS
+31,Livemint,,ACCESSIBLE,TIER_2_STATIC
+32,The Hindu BusinessLine,,ACCESSIBLE,TIER_2_STATIC
+33,Financial Express,,ACCESSIBLE,TIER_2_STATIC
+34,Business Insider India,https://www.businessinsider.com/rss,ACCESSIBLE,TIER_1_RSS
+35,The Ken,https://the-ken.com/feed,ACCESSIBLE,TIER_1_RSS
+36,FactorDaily,https://www.factordaily.com/feed,ACCESSIBLE,TIER_1_RSS
+37,Medianama,https://www.medianama.com/feed,ACCESSIBLE,TIER_1_RSS
+38,OfficeChai,https://officechai.com/feed,ACCESSIBLE,TIER_1_RSS
+39,BloombergQuint,,ACCESSIBLE,TIER_2_STATIC
+40,NextBigWhat,,ACCESSIBLE,TIER_2_STATIC
+41,Trak.in,,ACCESSIBLE,TIER_2_STATIC
+42,IndianWeb2,https://www.indianweb2.com/rss.xml,ACCESSIBLE,TIER_1_RSS
+43,HackerNoon,https://hackernoon.com/feed,ACCESSIBLE,TIER_1_RSS
+44,LetsVenture,,ACCESSIBLE,TIER_2_STATIC
+45,AngelList India,,ACCESSIBLE,TIER_2_STATIC
+46,Indian Angel Network,,ACCESSIBLE,TIER_2_STATIC
+47,Inflection Point Ventures,,ERROR_ConnectTimeout,TIER_2_STATIC
+48,Tracxn,,ACCESSIBLE,TIER_2_STATIC
+49,Venture Catalysts,,ERROR_ConnectionError,TIER_2_STATIC
+50,Mumbai Angels,,ACCESSIBLE,TIER_2_STATIC
+51,Startup India,,ERROR_ReadTimeout,TIER_2_STATIC
+52,MSMEGov,,ERROR_ConnectTimeout,TIER_2_STATIC
+53,Ministry of MSME,,ACCESSIBLE,TIER_2_STATIC
+54,DPIIT,,ACCESSIBLE,TIER_2_STATIC
+55,CoinDCX Ecosystem,,ACCESSIBLE,TIER_2_STATIC
+56,Fintech Futures,https://www.fintechfutures.com/rss.xml,BLOCKED_403,TIER_1_RSS
+57,FintechNews,https://fintechnews.sg/feed,ACCESSIBLE,TIER_1_RSS
+58,Crypto India,,ERROR_ConnectTimeout,TIER_2_STATIC
+59,Payments Industry India,,ERROR_ConnectionError,TIER_2_STATIC
+60,EdTechReview,https://edtechreview.in/feed,ACCESSIBLE,TIER_1_RSS
+61,Vedantu Blog,,ERROR_ConnectionError,TIER_2_STATIC
+62,BYJU'S News,,ACCESSIBLE,TIER_2_STATIC
+63,Learning Tree,,BLOCKED_403,TIER_3_BROWSER
+64,EdTechAsia,,ACCESSIBLE,TIER_2_STATIC
+65,Digital Health News,https://www.digitalhealthnews.com/feed,ACCESSIBLE,TIER_1_RSS
+66,Practo Blog,https://blog.practo.com/feed,ACCESSIBLE,TIER_1_RSS
+67,MedTech India,,ERROR_SSLError,TIER_2_STATIC
+68,Health Tech Today,,ERROR_ConnectionError,TIER_2_STATIC
+69,Medtech Spotlight,,ERROR_ConnectionError,TIER_2_STATIC
+70,SaaSBoomi,https://saasboomi.org/feed,ACCESSIBLE,TIER_1_RSS
+71,Wellfound SaaS,,ACCESSIBLE,TIER_2_STATIC
+72,G2 India,,BLOCKED_403,TIER_3_BROWSER
+73,SaaS Mastery Hub,,ERROR_ConnectionError,TIER_2_STATIC
+74,B2B Insider,,ERROR_ConnectionError,TIER_2_STATIC
+75,D2C News,https://inc42.com/feed,ACCESSIBLE,TIER_1_RSS
+76,Outlook Business D2C,,ACCESSIBLE,TIER_2_STATIC
+77,Inc Business,https://incbusiness.in/feed,ACCESSIBLE,TIER_1_RSS
+78,D2C Today,,ERROR_ConnectionError,TIER_2_STATIC
+79,Ecommerce News,https://ecommercenews.in/feed,ACCESSIBLE,TIER_1_RSS
+80,KisanSabha,,ACCESSIBLE,TIER_2_STATIC
+81,AgriTech News,https://inc42.com/feed,ACCESSIBLE,TIER_1_RSS
+82,Agri-Tech Today,,ERROR_ConnectionError,TIER_2_STATIC
+83,Farm News,,ERROR_ConnectionError,TIER_2_STATIC
+84,Rural Startup Hub,,ERROR_ConnectionError,TIER_2_STATIC
+85,Robotics 24/7,,ACCESSIBLE,TIER_2_STATIC
+86,DeepTech Today,,ERROR_ConnectionError,TIER_2_STATIC
+87,Manufacturing Startups,https://www.indianstartuptimes.com/feed,ACCESSIBLE,TIER_1_RSS
+88,Quantum Computing India,,ERROR_ConnectionError,TIER_2_STATIC
+89,Semiconductor News,,ERROR_ConnectionError,TIER_2_STATIC
+90,Beehiiv,,ACCESSIBLE,TIER_2_STATIC
+91,Substack,,ACCESSIBLE,TIER_2_STATIC
+92,LinkedIn,,ACCESSIBLE,TIER_2_STATIC
+93,Ghost,,ACCESSIBLE,TIER_2_STATIC
+94,ConvertKit,,ACCESSIBLE,TIER_2_STATIC
+95,Flodesk,,ACCESSIBLE,TIER_2_STATIC
+96,The Morning Context,,ACCESSIBLE,TIER_2_STATIC
+97,Marketing Monk,,ACCESSIBLE,TIER_2_STATIC
+98,Social Syntax,,ERROR_ConnectionError,TIER_2_STATIC
+99,Figment,,ERROR_ConnectionError,TIER_2_STATIC
+100,Business Weekly,,ERROR_SSLError,TIER_2_STATIC
+101,Tech Bytes Daily,,ERROR_ConnectionError,TIER_2_STATIC
+102,HubHopper,,ACCESSIBLE,TIER_2_STATIC
+103,Acast,,ACCESSIBLE,TIER_2_STATIC
+104,Spotify Podcasts,,ACCESSIBLE,TIER_2_STATIC
+105,YouTube,,ACCESSIBLE,TIER_2_STATIC
+106,Gaana Studios,,ACCESSIBLE,TIER_2_STATIC
+107,Feedspot,,ACCESSIBLE,TIER_2_STATIC
+108,Feedly,,ACCESSIBLE,TIER_2_STATIC
+109,NewsBlur,,ACCESSIBLE,TIER_2_STATIC
+110,Inoreader,,ACCESSIBLE,TIER_2_STATIC
+111,Business Outreach,https://www.businessoutreach.in/feed,ACCESSIBLE,TIER_1_RSS
+112,TechCrunch,https://techcrunch.com/feed,ACCESSIBLE,TIER_1_RSS
+113,Crunchbase,,ACCESSIBLE,TIER_2_STATIC
+114,CB Insights,,ACCESSIBLE,TIER_2_STATIC
+115,Pitchbook,,BLOCKED_403,TIER_3_BROWSER
+116,Product Hunt,https://www.producthunt.com/feed,ACCESSIBLE,TIER_1_RSS
+117,Forbes India,,ACCESSIBLE,TIER_2_STATIC
+118,Outlook Business,,ACCESSIBLE,TIER_2_STATIC
+119,Medium,,ACCESSIBLE,TIER_2_STATIC
+120,Sequoia Surge,https://www.sequoiacap.com/feed,ACCESSIBLE,TIER_1_RSS
+121,Y Combinator,,ACCESSIBLE,TIER_2_STATIC
+122,Techstars Bangalore,,ACCESSIBLE,TIER_2_STATIC
+123,Axilor Ventures,https://www.axilor.com/feed,ACCESSIBLE,TIER_1_RSS
+124,100X.VC,,ACCESSIBLE,TIER_2_STATIC
+125,T-Hub,https://t-hub.co/feed,ACCESSIBLE,TIER_1_RSS
+126,CIIE.CO,,ERROR_ConnectionError,TIER_2_STATIC
+127,NSRCEL,,ERROR_ConnectTimeout,TIER_2_STATIC
+128,NASSCOM 10K,,ACCESSIBLE,TIER_2_STATIC
+129,Social Alpha,https://socialalpha.org/feed,ACCESSIBLE,TIER_1_RSS
+130,Villgro,https://villgro.org/feed,ACCESSIBLE,TIER_1_RSS
+131,Startup India Accelerator,,ERROR_ReadTimeout,TIER_2_STATIC
+132,IIT Madras Research Park,,ERROR_ConnectionError,TIER_2_STATIC
+133,KIIT-TBI,https://kiitincubator.in/feed,ACCESSIBLE,TIER_1_RSS
+134,Sristi Incubator,https://sristi.org/feed,ACCESSIBLE,TIER_1_RSS
+135,Kunal Shah,,ACCESSIBLE,TIER_2_STATIC
+136,Ankur Warikoo,,BLOCKED_999,TIER_3_BROWSER
+137,Raj Shamani,,BLOCKED_429,TIER_3_BROWSER
+138,Nikhil Kamath,,BLOCKED_429,TIER_3_BROWSER
+139,Ritesh Agarwal,,BLOCKED_429,TIER_3_BROWSER
+140,Peyush Bansal,,BLOCKED_429,TIER_3_BROWSER
+141,Sairee Chahal,,BLOCKED_429,TIER_3_BROWSER
+142,Bhavin Turakhia,,BLOCKED_429,TIER_3_BROWSER
+143,Shailendra Singh,,BLOCKED_429,TIER_3_BROWSER
+144,Simerjeet Singh,,BLOCKED_429,TIER_3_BROWSER
+145,Nidhi Razdan,,BLOCKED_429,TIER_3_BROWSER
+146,Meena Ganesh,,BLOCKED_999,TIER_3_BROWSER
+147,Shreya Pattar,,BLOCKED_999,TIER_3_BROWSER
+148,Ankur Tewari,,BLOCKED_999,TIER_3_BROWSER
+149,Vaibhav Sisinty,,ACCESSIBLE,TIER_2_STATIC
+150,Bangalore Hub,,ERROR_ConnectionError,TIER_2_STATIC
+151,Hyderabad Tech,,ERROR_ConnectionError,TIER_2_STATIC
+152,Delhi Startup,,BLOCKED_403,TIER_3_BROWSER
+153,Mumbai Startup,,ERROR_ConnectionError,TIER_2_STATIC
+154,Pune Tech,,ERROR_ConnectionError,TIER_2_STATIC
+155,Chennai Startup,,ERROR_ConnectionError,TIER_2_STATIC
+156,Ahmedabad Startup,,ERROR_ConnectionError,TIER_2_STATIC
+157,Jaipur Tech,,ERROR_ConnectionError,TIER_2_STATIC
+158,Kolkata Startup,,ACCESSIBLE,TIER_2_STATIC
+159,Kochi Tech,,ERROR_ConnectionError,TIER_2_STATIC
+160,Tier 2 Watch,,ERROR_ConnectionError,TIER_2_STATIC
+161,Tier 3 Cities,,ERROR_ConnectionError,TIER_2_STATIC
+162,Regional Network,,ERROR_ConnectionError,TIER_2_STATIC
+163,Grassroots,,ERROR_ConnectionError,TIER_2_STATIC
+164,Startup Voices,,ERROR_ConnectionError,TIER_2_STATIC
+165,Crunchbase Global,,ACCESSIBLE,TIER_2_STATIC
+166,AngelList Global,,ACCESSIBLE,TIER_2_STATIC
+167,Dealroom,https://www.dealroom.co/feed,ACCESSIBLE,TIER_1_RSS
+168,Owler,,ACCESSIBLE,TIER_2_STATIC
+169,DataFox,,ERROR_SSLError,TIER_2_STATIC
+170,Labnol,https://www.labnol.org/rss.xml,ACCESSIBLE,TIER_1_RSS
+171,GuidingTech,https://www.guidingtech.com/feed,ACCESSIBLE,TIER_1_RSS
+172,ShoutMeLoud,https://www.shoutmeloud.com/feed,ACCESSIBLE,TIER_1_RSS
+173,BloggersPassion,,ACCESSIBLE,TIER_2_STATIC
+174,HellBound,,ERROR_ConnectionError,TIER_2_STATIC
+175,TechBlogCorner,,ERROR_ConnectionError,TIER_2_STATIC
+176,NamasteUI,,ERROR_ConnectionError,TIER_2_STATIC
+177,MoneyConnexion,,ERROR_ConnectionError,TIER_2_STATIC
+178,IndiBlogger,https://www.indiblogger.in/feed,ACCESSIBLE,TIER_1_RSS
+179,BloggingX,,ERROR_ConnectionError,TIER_2_STATIC
+180,iftiSEO,https://www.iftiseo.com/feed,ACCESSIBLE,TIER_1_RSS
+181,Stride Ventures,,ACCESSIBLE,TIER_2_STATIC
+182,Efficient Capital,,ACCESSIBLE,TIER_2_STATIC
+183,Trifecta Capital,,ACCESSIBLE,TIER_2_STATIC
+184,InnoVen Capital,,ACCESSIBLE,TIER_2_STATIC
+185,Recur Club,,ACCESSIBLE,TIER_2_STATIC
+186,SIDBI,,ACCESSIBLE,TIER_2_STATIC
+187,NASSCOM,,ACCESSIBLE,TIER_2_STATIC
+188,CII,,ERROR_ConnectionError,TIER_2_STATIC
+189,FICCI,,ACCESSIBLE,TIER_2_STATIC
+190,Startup Council,,ERROR_ReadTimeout,TIER_2_STATIC
+191,TiE,,ACCESSIBLE,TIER_2_STATIC
+192,Reddit India,,ACCESSIBLE,TIER_2_STATIC
+193,Twitter/X,,ACCESSIBLE,TIER_2_STATIC
+194,Instagram,,ACCESSIBLE,TIER_2_STATIC
+195,Telegram,,ACCESSIBLE,TIER_2_STATIC
+196,WhatsApp,,ACCESSIBLE,TIER_2_STATIC
+197,Discord,,ACCESSIBLE,TIER_2_STATIC
+198,Slack,,ACCESSIBLE,TIER_2_STATIC
+199,The Times of India,,ACCESSIBLE,TIER_2_STATIC
+200,The Hindu,,ACCESSIBLE,TIER_2_STATIC
+201,The New Indian Express,https://www.newindianexpress.com/feed,ACCESSIBLE,TIER_1_RSS
+202,The Indian Express,https://www.indianexpress.com/feed,ACCESSIBLE,TIER_1_RSS
+203,Hindustan Times,,ACCESSIBLE,TIER_2_STATIC
+204,The Telegraph,,ACCESSIBLE,TIER_2_STATIC
+205,Deccan Chronicle,https://www.deccanchronicle.com/feed,ACCESSIBLE,TIER_1_RSS
+206,The Tribune,,ACCESSIBLE,TIER_2_STATIC
+207,The Pioneer,,ERROR_ConnectTimeout,TIER_2_STATIC
+208,DNA India,https://www.dnaindia.com/rss.xml,ACCESSIBLE,TIER_1_RSS
+209,Mint Newspaper,,ACCESSIBLE,TIER_2_STATIC
+210,Business India,,ACCESSIBLE,TIER_2_STATIC
+211,Fortune India,https://www.fortuneindia.com/feed,ACCESSIBLE,TIER_1_RSS
+212,The CEO Magazine,,ERROR_ConnectionError,TIER_2_STATIC
+213,Entrepreneurial Era,,ERROR_ConnectionError,TIER_2_STATIC
