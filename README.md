@@ -1,6 +1,7 @@
 Something that works is the goal, ignore all the spaghetti
 
 [Excel](https://docs.google.com/spreadsheets/d/1nA6pbnsZ2SV1y88SSxeqjfeMMwCpmh9rGBGzdkUGZIc/edit?usp=sharing)
+[View SQL DB](https://inloop.github.io/sqlite-viewer/)
 
 ## Different Tiers
 
